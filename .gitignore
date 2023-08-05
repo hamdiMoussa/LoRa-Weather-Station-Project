@@ -1,0 +1,4 @@
+.settings
+DEBUG
+*.hex
+.mxproject
